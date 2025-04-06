@@ -70,7 +70,8 @@ mini-games/
 ├── src/
 │   ├── screens/           # Individual game screens
 │   │   ├── HomeScreen.tsx # Main menu to select games 
-│   │   ├── MemoryGame/    # Memory Card Game files
+│   │   ├── MemoryGame/    # Memory Card Game files![WordPuzzle](https://github.com/user-attachments/assets/cf9f403b-ec5a-4aa8-bea7-72b1571bf8bb)
+
 │   │   ├── SnakeGame/     # Snake Game files
 │   │   ├── TicTacToe/     # Tic Tac Toe game files
 │   │   ├── Game2048/      # 2048 game files
@@ -89,7 +90,13 @@ mini-games/
 
 ## Screenshots
 
-From the main screen, you can select a game and play in each game's own interface. Your progress in the games is automatically saved.
+![Main](https://github.com/user-attachments/assets/b4c7777d-8987-494b-a15a-4ef3203a9bdb)
+![Memory](https://github.com/user-attachments/assets/f93ce8ad-70ae-4ac6-9c11-5eb7fb4812fc)
+![Snake](https://github.com/user-attachments/assets/d9659cda-1394-4047-b35f-3afb1ae8dd80)
+![TicTacToe](https://github.com/user-attachments/assets/e3184bef-28c4-4598-b7e3-5720cb53c2ea)
+![2048](https://github.com/user-attachments/assets/7982e21c-abde-4abb-8606-7b148eabaabd)
+![WordPuzzle](https://github.com/user-attachments/assets/6bd74a03-a1f5-42ad-ab0b-86d7720bf992)
+
 
 ## License
 
